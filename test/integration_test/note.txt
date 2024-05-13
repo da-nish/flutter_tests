@@ -1,0 +1,5 @@
+
+Integration testing does not work like unit and widget testing
+we use different approach for this
+
+create a folder in root(lib folder level)
